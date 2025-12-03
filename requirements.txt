@@ -3,7 +3,7 @@ kagglehub
 librosa
 scikit-learn
 tensorflow
-torch
+torch  # Corrected PyTorch package name
 torchvision
 scipy
 numpy
