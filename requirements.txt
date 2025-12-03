@@ -1,0 +1,11 @@
+streamlit
+kagglehub
+librosa
+scikit-learn
+tensorflow
+pytorch
+torchvision
+scipy
+numpy
+matplotlib
+seaborn

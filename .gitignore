@@ -1,0 +1,15 @@
+
+#### 6. **`.gitignore`**
+Standard `.gitignore` for Python projects:
+
+```txt
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.log
+*.csv
+assets/
+*.zip
+*.tar.gz
